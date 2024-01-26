@@ -1,0 +1,11 @@
+test set,accuracy
+Overall,0.43666666666666665
+Autumn, 0.857 
+Winter, 0.8808808808808809 
+Spring, 0.878 
+Autumn Day, 0.848 
+Autumn Night, 0.866 
+Winter Day, 0.888 
+Winter Night, 0.87374749498998 
+Spring Day, 0.89 
+Spring Night, 0.866 
